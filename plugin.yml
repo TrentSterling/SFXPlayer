@@ -1,0 +1,10 @@
+main: com.trentsterling.sfxplayer.SFXPlayerPlugin
+name: SFXPlayerPlugin
+version: 1.0
+author: TrentSterling
+description: Play minecraft sounds with commands.
+commands:
+    sfx:
+        description: SFXPlayerPlugin command.
+    party:
+        description: party yo.
